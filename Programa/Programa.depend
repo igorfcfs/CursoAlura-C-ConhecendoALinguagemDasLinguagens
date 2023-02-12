@@ -1,8 +1,14 @@
 # depslib dependency file v1.0
-1676234847 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\cconhecendoalinguagemdaslinguagens\programa\main.c
+1676237830 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\cconhecendoalinguagemdaslinguagens\programa\main.c
 	<stdio.h>
 	<stdlib.h>
 
-1676234497 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\cconhecendoalinguagemdaslinguagens\programa\teste.c
+1676239870 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\cconhecendoalinguagemdaslinguagens\programa\teste.c
 	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1676239901 source:d:\projetos\alura\linguagemc\01.fundamentosdalinguagem\cconhecendoalinguagemdaslinguagens\programa\adivinhacao.c
+	<stdio.h>
+	<stdlib.h>
 
